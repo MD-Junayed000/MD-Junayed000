@@ -1,7 +1,5 @@
 <h1 align="center">
-  <a href="#" style="text-decoration: none;">
     <span style="display: inline-block; animation: fadeIn 2s infinite alternate;">Hi 👋, I'm</span> Muhammad Junayed
-  </a>
 </h1>
 
 <h3 align="center">ML | DL | NLP Engineer | Data Enthusiast</h3>
