@@ -12,10 +12,6 @@
 - 🎓 Pursuing **B.Sc. in Electronics and Telecommunication Engineering** at **Chittagong University of Engineering and Technology (CUET), Bangladesh**.
 - 🤖 Passionate about **Machine Learning, Deep Learning, NLP**, and exploring AI applications.
 - 🔬 Currently working on **EEG Data Analysis, NLP, GANs, and Vision Transformers for medical and industrial applications**.
-- 🌱 Learning **PyTorch, TensorFlow, Transformers, and Generative AI**.
-- 📚 Active on **Kaggle**: [Check my Kaggle Profile](https://www.kaggle.com/muhammedjunayed).
-- 🔗 Connect with me on **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/mohammad-junayed-ete20/).
-- 📫 How to reach me: **u2008023@student.cuet.ac.bd**.
 
 ---
 
