@@ -1,5 +1,5 @@
 <h1 align="center">
-    <span style="display: inline-block; animation: fadeIn 2s infinite alternate;">Hi 👋, I'm</span> Muhammad Junayed
+    <span style="display: inline-block; animation: fadeIn 10s infinite alternate;">Hi 👋, I'm</span> Muhammad Junayed
 </h1>
 
 <h3 align="center">ML | DL | NLP Engineer | Data Enthusiast</h3>
