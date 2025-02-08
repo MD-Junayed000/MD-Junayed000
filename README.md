@@ -14,13 +14,15 @@
   <a href="mailto:u2008023@student.cuet.ac.bd">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
   <a href="https://www.linkedin.com/in/mohammad-junayed-ete20/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="[Muhammad Junayed_Resume.pdf](https://github.com/user-attachments/files/18718978/Muhammad.Junayed_Resume.pdf)
- ">
+
+  <a href="https://github.com/user-attachments/files/18718987/Muhammad.Junayed_Resume.pdf">
     <img src="https://img.shields.io/badge/Portfolio-%23FF8C00.svg?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
+
    <a href="https://www.kaggle.com/muhammedjunayed">
     <img src="https://img.shields.io/badge/Kaggle-%23020a87.svg?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
