@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="#" style="text-decoration: none;">
-    <span style="display: inline-block; animation: fadeIn 10s infinite alternate;">Hi 👋, I'm</span> Muhammad Junayed
+    <span style="display: inline-block; animation: fadeIn 2s infinite alternate;">Hi 👋, I'm</span> Muhammad Junayed
   </a>
 </h1>
 
