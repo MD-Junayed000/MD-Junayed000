@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="(https://github.com/user-attachments/files/19146059/Muhammad.Junayed_Resume.-.Copy-laterUse.pdf">
+  <a href="https://github.com/user-attachments/files/19146059/Muhammad.Junayed_Resume.-.Copy-laterUse.pdf">
     <img src="https://img.shields.io/badge/Portfolio-%23FF8C00.svg?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 
