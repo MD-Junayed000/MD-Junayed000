@@ -77,7 +77,7 @@
 #### 💊 AroInsa Medicine Solution Website
 - 🌐 **Goal**: Developed an **E-commerce Pharmaceutical Service Platform** to streamline online medicine purchases.
 - 🛠️ **Tech Stack**: HTML, CSS, PHP, JavaScript.
-- 🔗 [Live Website](https://aroinsamedicinesolution.infinityfreeapp.com/?i=1)
+- 🔗 [Live Website](https://aromapharmacy.infinityfreeapp.com/)
 - 🔗 [GitHub Repo](https://github.com/MD-Junayed000/AroInsa-Medicine-Solution-website)
 
 For more projects, visit my **[GitHub Repositories](https://github.com/MD-Junayed000?tab=repositories)**.
