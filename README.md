@@ -58,7 +58,7 @@ I am Muhammad Junayed, a final-year Electronics and Telecommunication Engineerin
   EEG preprocessing into time-frequency scalograms and ViT-based classification for alcoholic vs control detection.
 
 ## Research Arena
-- Thesis direction: hallucination detection and mitigation in LLMs using internal-state awareness and closed-loop RAG.
+- Ongoing B.Sc. thesis: hallucination detection and mitigation in LLMs using internal-state awareness and closed-loop RAG.
 - Publication track includes:
   - CNN-based defect recognition for silicon wafer maps (ICAEEE 2024, IEEE).
   - Vision Transformer for breast ultrasound image classification (SPICSCON 2025).
