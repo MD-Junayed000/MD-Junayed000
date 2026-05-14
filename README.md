@@ -1,94 +1,84 @@
-<h1 align="center">
-    <span style="display: inline-block; animation: fadeIn 10s infinite alternate;">Hi 👋, I'm</span> Muhammad Junayed
-</h1>
-
-<h3 align="center">ML | DL | NLP Engineer | Data Enthusiast</h3>
-
+<h1 align="center">Muhammad Junayed</h1>
+<p align="center"><strong>AI Engineer in Training | Computer Vision | Cloud-Native ML Systems</strong></p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MD-Junayed000&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <a href="mailto:u2008023@student.cuet.ac.bd">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:mdjunayed573@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-
-  <a href="https://www.linkedin.com/in/mohammad-junayed-ete20/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/muhammad-junayed-ete20/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-
-  <a href="https://github.com/user-attachments/files/19146059/Muhammad.Junayed_Resume.-.Copy-laterUse.pdf">
-    <img src="https://img.shields.io/badge/Portfolio-%23FF8C00.svg?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <a href="Muhammad_Junayed_CV.pdf">
+    <img src="https://img.shields.io/badge/Resume-%23FF8C00.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Resume">
   </a>
-
-   <a href="https://www.kaggle.com/muhammedjunayed">
-    <img src="https://img.shields.io/badge/Kaggle-%23020a87.svg?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <a href="https://www.kaggle.com/muhammedjunayed">
+    <img src="https://img.shields.io/badge/Kaggle-%23020a87.svg?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
   </a>
 </p>
 
-
 ---
 
-### 🚀 About Me
+## Professional Summary
+- I am Muhammad Junayed, a final-year Electronics and Telecommunication Engineering (ETE) student at Chittagong University of Engineering and Technology (CUET).
+- I am focused on AI engineering, computer vision, cloud computing, and building practical systems that work in real-world environments.
+- I enjoy ML development, automation, and backend engineering with Python, JavaScript, React, Node.js, C++, and AWS deployment, while continuously learning and iterating.
 
-- 🎓 Pursuing **B.Sc. in Electronics and Telecommunication Engineering** at **Chittagong University of Engineering and Technology (CUET), Bangladesh**.
+## Current Focus
+- Building production-ready AI workflows with strong engineering discipline.
+- Developing multimodal and RAG-based applications for healthcare and enterprise use cases.
+- Improving reliability, monitoring, and deployment readiness of ML systems.
 
-- 🤖 Passionate about **Machine Learning, Deep Learning, NLP**, and exploring AI applications.
-
-- 🔬 Currently working on **EEG Data Analysis, NLP, GANs, and Vision Transformers for medical and industrial applications**.
-
----
-
-### 🛠️ Languages and Tools:
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50px"/>
+## Skill Tree
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" title="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" title="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" title="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" title="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV" title="OpenCV" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" title="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" title="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="48" height="48" alt="MATLAB" title="MATLAB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP" title="PHP""/>
 </p>
 
----
+## Engineering Stack
+- AI/ML: PyTorch, TensorFlow, scikit-learn, Transformers, GANs, applied NLP and CV
+- LLM Systems: RAG pipelines, OCR + retrieval, prompt workflows, agent orchestration
+- MLOps: Airflow, ZenML, MLflow, reproducible training and experiment tracking
+- Backend: FastAPI, Flask, Node.js, REST APIs, PostgreSQL, automation pipelines
+- Deployment: Docker, cloud-ready delivery patterns, CI-oriented project workflows
 
-### 📌 Featured Projects:
+## Quest Log (Selected Work)
+- **AroBot - Agentic RAG Multi-Modal Chatbot**  
+  Built a healthcare assistant with FastAPI, OCR, LangSmith tracing, Pinecone retrieval, and Ollama-served models.
 
-#### 🧠 EEG Data Analysis & Alcoholism Detection
-- 📊 **Goal**: Classifying subjects into alcoholic and control groups using EEG signals.
-- 🚀 **Models Used**: KNN, SVM
-- 🎯 **Accuracy**: **99%**
-- 🔗 [GitHub Repo](https://github.com/MD-Junayed000/EEG-Signal-Data-Analysis-with-Machine-Learning)
+- **Uber Fare Prediction with MLOps Orchestration**  
+  End-to-end pipeline using Airflow + ZenML, MLflow tracking, Flask serving, and PostgreSQL metadata logging.
 
-#### 🎨 GAN-Powered Car Image Generation
-- 🤖 **Goal**: Using **Generative Adversarial Networks (GANs)** to generate **realistic car images**.
-- 🖼️ **Dataset**: 4,165 car images
-- 🔗 [GitHub Repo](https://github.com/MD-Junayed000/-Car-Image-Generation-with-GANs)
+- **Tabular-QA / HybridQA (SemEval DataBench)**  
+  Automated QA over structured datasets using semantic matching, rule-based logic, and transformer-based methods.
 
-#### 🖼️ Image Captioning (CNN + RNN)
-- 📸 **Dataset**: Flickr8K
-- 🏆 **Goal**: Generate text descriptions for images using a CNN encoder + RNN decoder.
-- 🔗 [GitHub Repo](https://github.com/MD-Junayed000/Image-Caption-Generator-CNN-VGG-16-RNN-LSTM-)
+- **WM811k Wafer Defect Recognition (CNN + Grad-CAM)**  
+  Industrial vision workflow for silicon wafer map defect classification and interpretable model outputs.
 
-#### 💊 AroInsa Medicine Solution Website
-- 🌐 **Goal**: Developed an **E-commerce Pharmaceutical Service Platform** to streamline online medicine purchases.
-- 🛠️ **Tech Stack**: HTML, CSS, PHP, JavaScript.
-- 🔗 [Live Website](https://aromapharmacy.infinityfreeapp.com/)
-- 🔗 [GitHub Repo](https://github.com/MD-Junayed000/AroInsa-Medicine-Solution-website)
+- **Wavelet EEG + Vision Transformer**  
+  EEG preprocessing into time-frequency scalograms and ViT-based classification for alcoholic vs control detection.
 
-For more projects, visit my **[GitHub Repositories](https://github.com/MD-Junayed000?tab=repositories)**.
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MD-Junayed000&show_icons=true&theme=default&bg_color=ffffff&title_color=FF8C00&icon_color=FF8C00" alt="GitHub Stats" />
-</p>
+## Research Arena
+- Ongoing B.Sc. thesis: hallucination detection and mitigation in LLMs using internal-state awareness and closed-loop RAG.
+- Publication track includes:
+  - CNN-based defect recognition for silicon wafer maps (ICAEEE 2024, IEEE).
+  - Vision Transformer for breast ultrasound image classification (SPICSCON 2025).
+  - Prompt-engineering with AI tutors for educational NLP applications (BEA 2025 / ACL workshop).
 
 ---
 
-⭐ **Feel free to explore my work and contribute!** ⭐
+<p align="center"><strong>Open to AI Engineering internships and full-time opportunities focused on real-world systems.</strong></p>
