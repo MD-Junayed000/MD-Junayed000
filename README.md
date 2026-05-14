@@ -47,12 +47,12 @@
 
 ## Live Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MD-Junayed000&show_icons=true&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-Junayed000&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MD-Junayed000&show_icons=true&hide_border=true" alt="Muhammad Junayed's GitHub contribution statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-Junayed000&layout=compact&hide_border=true" alt="Muhammad Junayed's most used programming languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MD-Junayed000&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=MD-Junayed000&hide_border=true" alt="Muhammad Junayed's GitHub contribution streak statistics" />
 </p>
 
 ---
