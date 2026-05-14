@@ -1,14 +1,13 @@
 <h1 align="center">Muhammad Junayed</h1>
 <p align="center"><strong>AI Engineer in Training | Computer Vision | Cloud-Native ML Systems</strong></p>
-
 <p align="center">
   <a href="mailto:mdjunayed573@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/mohammad-junayed-ete20/">
+  <a href="https://www.linkedin.com/in/muhammad-junayed-ete20/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/user-attachments/files/19146059/Muhammad.Junayed_Resume.-.Copy-laterUse.pdf">
+  <a href="Muhammad_Junayed_CV.pdf">
     <img src="https://img.shields.io/badge/Resume-%23FF8C00.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Resume">
   </a>
   <a href="https://www.kaggle.com/muhammedjunayed">
@@ -47,6 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" title="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" title="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="48" height="48" alt="MATLAB" title="MATLAB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP" title="PHP""/>
 </p>
 
 ## Engineering Stack
