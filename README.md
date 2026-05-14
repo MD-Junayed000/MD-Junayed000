@@ -1,26 +1,45 @@
 <h1 align="center">Muhammad Junayed</h1>
-<p align="center"><strong>AI Engineer | Applied ML | LLM + RAG | MLOps</strong></p>
+<p align="center"><strong>AI Engineer in Training | Computer Vision | Cloud-Native ML Systems</strong></p>
 
 <p align="center">
-  <a href="mailto:mdjunayed573@gmail.com"><img src="https://img.shields.io/badge/Email-contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/mohammad-junayed-ete20/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/MD-Junayed000?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.kaggle.com/muhammedjunayed"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+  <a href="mailto:mdjunayed573@gmail.com"><img src="https://img.shields.io/badge/Email-mdjunayed573%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/mohammad-junayed-ete20/"><img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Junayed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/MD-Junayed000?tab=repositories"><img src="https://img.shields.io/badge/GitHub-MD--Junayed000-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.kaggle.com/muhammedjunayed"><img src="https://img.shields.io/badge/Kaggle-muhammedjunayed-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
 </p>
 
 ---
 
-## Player Profile
-- Current role path: AI Engineer focused on production-grade ML systems, LLM applications, and MLOps.
-- Academic base: B.Sc. in Electronics and Telecommunication Engineering, CUET.
-- Core mission: Build reliable AI products for healthcare, structured data QA, and industrial inspection.
+## Professional Summary
+I am Muhammad Junayed, a final-year Electronics and Telecommunication Engineering (ETE) student at Chittagong University of Engineering and Technology (CUET), passionate about advancing my expertise in AI engineering, computer vision, cloud computing, and building practical systems that work in the real world. I enjoy working across ML development, automation, and backend logic using Python, JavaScript, React, Node.js, C++, and AWS deployment. I'm always learning, iterating, and trying not to break production.
+
+## Current Focus
+- Building production-ready AI workflows with strong engineering discipline.
+- Developing multimodal and RAG-based applications for healthcare and enterprise use cases.
+- Improving reliability, monitoring, and deployment readiness of ML systems.
 
 ## Skill Tree
-- AI/ML: Python, PyTorch, TensorFlow, scikit-learn, NLP, CV, Transformers, GANs
-- LLM Systems: RAG, prompt design, OCR + retrieval pipelines, evaluation-ready agent workflows
-- MLOps: Airflow, ZenML, MLflow, experiment tracking, model selection, reproducible pipelines
-- Backend & Data: FastAPI, Flask, PostgreSQL, REST APIs, automation/scraping pipelines
-- Tooling: GitHub Actions, Docker, cloud/deployment-focused engineering workflows
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+## Engineering Stack
+- AI/ML: PyTorch, TensorFlow, scikit-learn, Transformers, GANs, applied NLP and CV
+- LLM Systems: RAG pipelines, OCR + retrieval, prompt workflows, agent orchestration
+- MLOps: Airflow, ZenML, MLflow, reproducible training and experiment tracking
+- Backend: FastAPI, Flask, Node.js, REST APIs, PostgreSQL, automation pipelines
+- Deployment: Docker, cloud-ready delivery patterns, CI-oriented project workflows
 
 ## Quest Log (Selected Work)
 - **AroBot - Agentic RAG Multi-Modal Chatbot**  
@@ -45,16 +64,6 @@
   - Vision Transformer for breast ultrasound image classification (SPICSCON 2025).
   - Prompt-engineering with AI tutors for educational NLP applications (BEA 2025 / ACL workshop).
 
-## Live Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MD-Junayed000&show_icons=true&hide_border=true" alt="Muhammad Junayed's GitHub contribution statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-Junayed000&layout=compact&hide_border=true" alt="Muhammad Junayed's most used programming languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MD-Junayed000&hide_border=true" alt="Muhammad Junayed's GitHub contribution streak statistics" />
-</p>
-
 ---
 
-<p align="center"><strong>Open to AI Engineering collaborations, research partnerships, and production ML opportunities.</strong></p>
+<p align="center"><strong>Open to AI Engineering internships and full-time opportunities focused on real-world systems.</strong></p>
