@@ -1,5 +1,5 @@
 <h1 align="center">Muhammad Junayed</h1>
-<p align="center"><strong>AI Engineer in Training | Computer Vision | Cloud-Native ML Systems</strong></p>
+<p align="center"><strong>AI Engineering Enthusiast | Computer Vision | Cloud-Native ML Systems</strong></p>
 <p align="center">
   <a href="mailto:mdjunayed573@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
