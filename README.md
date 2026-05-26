@@ -19,8 +19,8 @@
 
 ## Professional Summary
 - I am Muhammad Junayed, a final-year Electronics and Telecommunication Engineering (ETE) student at Chittagong University of Engineering and Technology (CUET).
-- I am focused on AI engineering, computer vision, cloud computing, and building practical systems that work in real-world environments.
-- I enjoy ML development, automation, and backend engineering with Python, JavaScript, React, Node.js, C++, and AWS deployment, while continuously learning and iterating.
+- Focused on building practical systems,computer vision, cloud computing that work in real-world environments.
+- Enjoy ML development, automation, and backend engineering with Python, JavaScript, React, Node.js, C++, and AWS deployment, while continuously learning and iterating.
 
 ## Current Focus
 - Building production-ready AI workflows with strong engineering discipline.
