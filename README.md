@@ -79,6 +79,4 @@
   - Vision Transformer for breast ultrasound image classification (SPICSCON 2025).
   - Prompt-engineering with AI tutors for educational NLP applications (BEA 2025 / ACL workshop).
 
----
 
-<p align="center"><strong>Open to AI Engineering internships and full-time opportunities focused on real-world systems.</strong></p>
